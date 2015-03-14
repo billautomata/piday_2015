@@ -36,7 +36,7 @@ The area of a circle with the **diameter** of `1.0m` (radius of `0.5m`) is `~0.7
 
 ![screen shot 2015-03-14 at 3 00 23 pm](https://cloud.githubusercontent.com/assets/432483/6653748/ecb2c986-ca5a-11e4-947d-9bf4afa4f450.png)
 
-The ratio of the area of the circle to the area of the square is `0.7854:1` or
+The ratio of the area of the circle to the area of the square is `0.7854:1`
 
 If our random numbers were evenly distributed there should be `~79` points that fall within the circle for every `100` points placed in the box.
 
