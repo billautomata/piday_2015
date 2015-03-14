@@ -1,8 +1,10 @@
-### What am I doing here?
+#[`link to the project`](http://billautomata.github.io/piday_2015/)
+
+## `What am I doing here?`
 
 My `π-day` project is a simple application that test the randomness of a stream of numbers by using them to approximate π.
 
-### How am I doing it?
+## `How am I doing it?`
 
 The algorithm I use is based on a principle from the Monte Carlo Simulation technique.
 
@@ -21,7 +23,7 @@ count of points marked as inside
           total count
 ```
 
-### Why?  
+## `Why?`
 
 When we were calculating the distance from the origin of the random point was greater than zero, we were actually checking to see if that point fell within a circle inscribed in the box we have been plotting our points.
 
@@ -36,7 +38,7 @@ If our random numbers were evenly distributed there should be `~79` points that 
 
 If the numbers are not evenly distributed the ratio will be different than `~79/100`.
 
-### How does this method approximate π?
+## `How does this method approximate π?`
 
 If you think your numbers are sufficiently random, then your ratio of points inside the circle to the total number of points should be a number that approaches `π/4`.  
 
