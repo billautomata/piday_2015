@@ -32,7 +32,7 @@ The area of a square with the **side length** of `1.0m` is `1.0 m^2`.
 ![screen shot 2015-03-14 at 4 22 41 pm](https://cloud.githubusercontent.com/assets/432483/6654009/6447b6e0-ca66-11e4-9cfb-d151b01a5180.png)
 
 
-The area of a circle with the **diameter** of `1.0m` is `~0.7854 m^2`.
+The area of a circle with the **diameter** of `1.0m` (radius of `0.5m`) is `~0.7854 m^2`.
 
 ![screen shot 2015-03-14 at 3 00 23 pm](https://cloud.githubusercontent.com/assets/432483/6653748/ecb2c986-ca5a-11e4-947d-9bf4afa4f450.png)
 
