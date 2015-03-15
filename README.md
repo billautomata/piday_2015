@@ -19,7 +19,7 @@ If your points were evenly distributed your ratio should be `π/4`.
 
 ```
 count of points marked as inside
--------------------------------- = (π/4)
+-------------------------------- = (π/4) or ~0.7854
           total count
 ```
 
