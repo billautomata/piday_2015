@@ -2,7 +2,7 @@
 
 ## `What am I doing here?`
 
-My `π-day` project is a simple application that test the randomness of a stream of numbers by using them to approximate π.
+My `π-day` project is a simple application that tests the randomness of a stream of numbers by using them to approximate π.
 
 ## `How am I doing it?`
 
