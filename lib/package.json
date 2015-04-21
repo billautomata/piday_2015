@@ -1,16 +1,20 @@
 {
-  "name": "lib",
+  "name": "libd",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browserify -d -t brfs main.js -o ../bundle.js &> browserify.log"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "brfs": "^1.4.0",
     "d3": "^3.5.5",
-    "moment": "^2.9.0"
+    "moment": "^2.9.0",
+    "noisejs": "^2.1.0",
+    "perlin-noise": "0.0.1",
+    "simplex-noise": "^2.1.1"
   }
 }
